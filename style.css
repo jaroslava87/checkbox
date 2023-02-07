@@ -7,7 +7,11 @@
 .checkbox-container {
     display: flex;
     flex-direction: column;
+<<<<<<< HEAD
     gap: 22px;
+=======
+    gap: 20!!px;
+>>>>>>> work
   }
 
 .title {
